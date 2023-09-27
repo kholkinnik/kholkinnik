@@ -30,7 +30,7 @@ How to contact me: [![Telegram Badge](https://img.shields.io/badge/-mrkholkins-b
 | Stepik.org/Программировнаие на Python                           | 11/2022 - 12/2022 |
 | Stepik.org/Интерактивный тренажер по SQL                        | 10/2022 - 11/2022 |
 | ВШЭ. онлайн/Основы статистики                                   | 02/2023 - 04/2023 |
-| Karpov.Courses/Факультет Веб разработки                         | 05/2023 - xx/2023 |
+| Karpov.Courses/ Аналитик данных                                 | 05/2023 - xx/2023 |
 
 ---
 
