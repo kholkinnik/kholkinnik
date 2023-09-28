@@ -8,7 +8,7 @@ Data analyst
 ------------
                    
                
-How to contact me: [![Telegram Badge](https://img.shields.io/badge/-mrkholkins-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) 
+How to contact me: [![Telegram Badge](https://img.shields.io/badge/-mrkholkins-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mrkholkins) 
 ---
 
 
